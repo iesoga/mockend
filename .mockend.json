@@ -1,4 +1,4 @@
-[
+{"schemes":[
    {
       "name":"RAF",
       "type":"Kullanıcı",
@@ -10,3 +10,4 @@
       "category":"Fatura"
    }
 ]
+}
