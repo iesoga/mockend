@@ -1,0 +1,12 @@
+[
+   {
+      "name":"RAF",
+      "type":"Kullanıcı",
+      "category":"Etiket"
+   },
+   {
+      "name":"Ürün",
+      "type":"Kullanıcı",
+      "category":"Fatura"
+   }
+]
